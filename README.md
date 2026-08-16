@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -239,16 +243,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -261,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
