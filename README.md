@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3312-sorted-gcd-pair-queries) |
