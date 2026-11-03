@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3665-twisted-mirror-path-count](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3875-construct-uniform-parity-array-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
