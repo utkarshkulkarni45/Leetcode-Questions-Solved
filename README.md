@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1140-stone-game-ii) |
+| [1267-count-servers-that-communicate](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1331-rank-transform-of-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2685-count-the-number-of-complete-components) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1267-count-servers-that-communicate) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3310-remove-methods-from-project) |
@@ -319,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3312-sorted-gcd-pair-queries) |
