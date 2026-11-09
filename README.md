@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1872-stone-game-viii) |
 | [1882-process-tasks-using-servers](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1882-process-tasks-using-servers) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1882-process-tasks-using-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Nim Game
 |  |
