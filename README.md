@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
@@ -427,4 +430,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
