@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2409-count-days-spent-together) |
