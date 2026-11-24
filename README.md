@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3364-minimum-positive-sum-subarray](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/utkarshkulkarni45/Leetcode-Questions-Solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
